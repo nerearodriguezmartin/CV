@@ -1,0 +1,375 @@
+{
+    "cv": [
+
+        
+        
+
+        {
+            
+            "about": {
+                "intro": "Desarrolladora web",
+                "presentacion": "Estudiante de informática con gran motivación y ganas de aprender. Durante mi etapa educativa siempre he mostrado ambición, y sobre todo gran capacidad para trabajar en equipo para conseguir los mejores resultados",
+                "nombre": "Nerea Rodriguez Martín"
+            },
+
+                "sobreMi": {
+                    "nombre": "Nerea",
+                    "apellidos": "Rodríguez Martín",
+                    "edad": "19",
+                    "direccion": "Concepción Arenal, 2",
+                    "email": "nerearodriguezmartin2001@gmail.com",
+                    "telefono": "+34 722340462"
+                    
+                },
+
+                "redesSociales": {
+                    "facebook": "https://www.facebook.com/profile.php?id=100007140617577",
+                    "github": "https://github.com/nerearodriguezmartin",
+                    "linkedin": "https://www.linkedin.com/in/nerea-rodr%C3%ADguez-mart%C3%ADn-68268a200/",
+                    "instagram": "https://www.instagram.com/neerearm_/?hl=es"
+                },
+                
+                "experiencia": [
+                    {
+                    "titulo": "Venta al público en un negocio familiar",
+                    "fechaInicio": "JUNIO 2019",
+                    "fechaFin": "SEPTIEMBRE 2019",
+                    "detalle": "Experiencia en el trato con el público adquirida en un negocio familiar de venta de pollos asados, y otros productos de alimentación"
+                },
+                {
+                    "titulo": "Centro de manipulado",
+                    "fechaInicio": "MARZO 2020",
+                    "fechaFin": "JUNIO 2020",
+                    "detalle": "Trabajo en la cadena de elaboración, en un centro de manipulado hortofrutícola"
+                }
+        
+                ],
+        
+                "educacion": [
+                    {
+                        "titulo": "Bachillerato",
+                        "tituloC": "Bachillerato de ciencias teconológicas",
+                        "fechaObtencion": "2017-2019",
+                        "centro": "IES Arjé",
+                        "lugar": "Chauchina - Granada",
+                        "conocimientos" : "Mejoró mi organización del tiempo para obtener los mejores resultados. Cultura científica"
+                    },
+        
+                    {
+                        "titulo": "Ciclo Formativo de Grado Superior",
+                        "tituloC": "Desarrollo de Aplicaciones Web",
+                        "fechaObtencion": "2019-2021",
+                        "centro": "IES Francisco Ayala",
+                        "lugar": "Granada",
+                        "conocimientos": "Grado superior en el que he adquirido multitud de conocimientos informáticos enfocados al desarrollo web. Uso de diferentes lenguajes de programación."
+                    }
+                ],
+        
+                "habilidades": [
+                    {
+                        "habilidad": "JavaScript",
+                        "nivel": "90"
+                    },
+                    {
+                        "habilidad": "CSS",
+                        "nivel": "70"
+                    },
+                    {
+                        "habilidad": "HTML5",
+                        "nivel": "75"
+                    },
+                    {
+                        "habilidad": "Java",
+                        "nivel": "75"
+                    },
+                    {
+                        "habilidad": "PHP",
+                        "nivel": "25"
+                    },
+                    {
+                        "habilidad": "VUE",
+                        "nivel": "50"
+                    },
+                    {
+                        "habilidad": "Trabajo en grupo",
+                        "nivel": "100"
+                    }
+                ],
+        
+                "proyectosDesarrollados": [
+                    {
+                        "id": "landing",
+                        "titulo": "Landing Page",
+                        "linkEnProduccion": "https://nerearodriguezmartin.github.io/Landing-Page/",
+                        "linkRepositorio" : "https://github.com/nerearodriguezmartin/Landing-Page",
+                        "img" : "./images/landing.png",
+                        "resumen" : "Esta Landing Page es de una línea de cosméticos que cumplen la normativa ECO y CrueltyFree. En este proyecto puse en práctica los conocimietos en jQuert, CSS, HTML5, AJAX y JavaScript"
+                    },
+        
+                    {
+                        "id": "pin",
+                        "titulo": "Pin Pon",
+                        "linkEnProduccion": "https://nerearodriguezmartin.github.io/Pin-Pon/pinpon.html",
+                        "linkRepositorio" : "https://github.com/nerearodriguezmartin/Pin-Pon",
+                        "img" : "./images/pinpon.jpg",
+                        "resumen" : "Juego del pin-pon creado con svg."
+                    },
+
+                    {
+                        "id": "piedra",
+                        "titulo": "Piedra Papel Tijera",
+                        "linkEnProduccion": "https://nerearodriguezmartin.github.io/PPT/papelTijera.html",
+                            "linkRepositorio" : "https://github.com/nerearodriguezmartin/PPT",
+                        "img" : "./images/piedra.jpg",
+                        "resumen" : "Tradicional juego de piedra papael o tijera, diseñado mediante JavaScript."
+                    },
+
+                    {
+                        "id": "super",
+                        "titulo": "Superhéroes",
+                        "linkEnProduccion": "https://nerearodriguezmartin.github.io/AjaxProject/hero.html",
+                        "linkRepositorio" : "https://github.com/nerearodriguezmartin/AjaxProject",
+                        "img" : "./images/hero.jpg",
+                        "resumen" : "Pincha sobre un superheroe para descubrir sus características principales. Introduce un nombre en el buscador para mostrar únicamente el superheroe deseado"
+                    }
+                ],
+        
+        
+                "idiomas": [
+                    {
+                        "idioma": "Inglés",
+                        "nivel": 65
+                    },
+                    {
+                        "idioma": "Francés",
+                        "nivel": 60
+                    },
+                    {
+                        "idioma": "Catalán",
+                        "nivel": 75
+                    }
+                ],
+        
+                "referencias" : [
+                    {
+                        "nombre": "Pilar",
+                        "img": "./images/reference-image-1.jpg",
+                        "puesto" : "TÉCNICO ADMINISTRATIVO",
+                        "resumen" : "Excelente motivación y eficiencia a la hora de trabajar. Carisma especial"
+                    },
+
+                    {
+                        "nombre": "Jesús",
+                        "img": "./images/reference-image-2.jpg",
+                        "puesto" : "PROFESOR DE INFORMÁTICA",
+                        "resumen" : "Excelente alumna, demuestra su esfuerzo e interés en cada tarea efectuada"
+                    },
+
+                    {
+                        "nombre": "MARC",
+                        "img": "./images/reference-image-3.jpg",
+                        "puesto" : "RRHH",
+                        "resumen" : "Trabajadora muy resolutiva y siempre con ganas de aprender"
+                    }
+                ],
+
+                "referencia": {
+                    "nombre": "AITANA",
+                    "img": "./images/reference1.jpg",
+                    "puesto" : "GERENTE",
+                    "resumen" : "Responsable, resolutiva, y perfeccionista. Siempre con una actitud positiva ante cada reto propuesto"
+            }
+                    
+            },
+        
+
+        
+            {
+            
+                "about": {
+                    "intro": "Web Developer",
+                    "presentacion": "I am a computer science student with great motivation and desire to learn. During my educational stage I have always shown ambition, and above all great ability to work in a team to achieve the best results.",
+                    "nombre": "Nerea Rodriguez Martín"
+                },
+    
+                    "sobreMi": {
+                        "name": "Nerea",
+                        "surname": "Rodríguez Martín",
+                        "age": "19",
+                        "adress": "Concepción Arenal, 2",
+                        "email": "nerearodriguezmartin2001@gmail.com",
+                        "phone number": "+34 722340462"
+                        
+                    },
+    
+                    "redesSociales": {
+                        "facebook": "https://www.facebook.com/profile.php?id=100007140617577",
+                        "github": "https://github.com/nerearodriguezmartin",
+                        "linkedin": "https://www.linkedin.com/in/nerea-rodr%C3%ADguez-mart%C3%ADn-68268a200/",
+                        "instagram": "https://www.instagram.com/neerearm_/?hl=es"
+                    },
+                    
+                    "experiencia": [
+                        {
+                        "titulo": "Retailing in a family business",
+                        "fechaInicio": "JUNE 2019",
+                        "fechaFin": "SEPTEMBER 2019",
+                        "detalle": "Experience in dealing with the public acquired in a family business selling food products."
+                    },
+                    {
+                        "titulo": "Processing chain",
+                        "fechaInicio": "MARZO 2020",
+                        "fechaFin": "JUNIO 2020",
+                        "detalle": "I work in the processing chain, in a fruit and vegetable processing centre."
+                    }
+            
+                    ],
+            
+                    "educacion": [
+                        {
+                            "titulo": "Bachelor's Degree",
+                            "tituloC": "Bachelor of Science in Technology",
+                            "fechaObtencion": "2017-2019",
+                            "centro": "IES Arjé",
+                            "lugar": "Chauchina - Granada",
+                            "conocimientos" : "It improved my time management to get the best results. Scientific culture"
+                        },
+            
+                        {
+                            "titulo": "Higher Grade Training Cycle",
+                            "tituloC": "Web Application Development",
+                            "fechaObtencion": "2019-2021",
+                            "centro": "IES Francisco Ayala",
+                            "lugar": "Granada",
+                            "conocimientos": "I have acquired a wide range of computer skills focused on web development. Use of different programming languages"
+                        }
+                    ],
+            
+                    "habilidades": [
+                        {
+                            "habilidad": "JavaScript",
+                            "nivel": "90"
+                        },
+                        {
+                            "habilidad": "CSS",
+                            "nivel": "70"
+                        },
+                        {
+                            "habilidad": "HTML5",
+                            "nivel": "75"
+                        },
+                        {
+                            "habilidad": "Java",
+                            "nivel": "75"
+                        },
+                        {
+                            "habilidad": "PHP",
+                            "nivel": "25"
+                        },
+                        {
+                            "habilidad": "VUE",
+                            "nivel": "50"
+                        },
+                        {
+                            "habilidad": "Group work",
+                            "nivel": "100"
+                        }
+                    ],
+            
+                    "proyectosDesarrollados": [
+                        {
+                            "id": "landing",
+                            "titulo": "Landing Page",
+                            "linkEnProduccion": "https://nerearodriguezmartin.github.io/Landing-Page/",
+                            "linkRepositorio" : "https://github.com/nerearodriguezmartin/Landing-Page",
+                            "img" : "./images/landing.png",
+                            "resumen" : "This Landing Page is for a line of cosmetics that comply with ECO and CrueltyFree standards. In this project I put into practice my knowledge in jQuery, CSS, HTML5, AJAX and JavaScript."
+                        },
+            
+                        {
+                            "id": "pin",
+                            "titulo": "Pin Pon",
+                            "linkEnProduccion": "https://nerearodriguezmartin.github.io/Pin-Pon/pinpon.html",
+                            "linkRepositorio" : "https://github.com/nerearodriguezmartin/Pin-Pon",
+                            "img" : "./images/pinpon.jpg",
+                            "resumen" : "Pinochle game created with svg"
+                        },
+    
+                        {
+                            "id": "piedra",
+                            "titulo": "Rock Paper Scissors",
+                            "linkEnProduccion": "https://nerearodriguezmartin.github.io/PPT/papelTijera.html",
+                            "linkRepositorio" : "https://github.com/nerearodriguezmartin/PPT",
+                            "img" : "./images/piedra.jpg",
+                            "resumen" : "Traditional rock-paper-scissors game, designed using JavaScript."
+                            
+                        },
+    
+                        {
+                            "id": "super",
+                            "titulo": "Super Hero",
+                            "linkEnProduccion": "https://nerearodriguezmartin.github.io/AjaxProject/hero.html",
+                            "linkRepositorio" : "https://github.com/nerearodriguezmartin/AjaxProject",
+                            "img" : "./images/hero.jpg",
+                            "resumen" : "Click on a superhero to discover its main characteristics. Enter a name in the search engine to display only the desired superhero."
+                        }
+                    ],
+            
+            
+                    "idiomas": [
+                        {
+                            "idioma": "English",
+                            "nivel": 65
+                        },
+                        {
+                            "idioma": "French",
+                            "nivel": 60
+                        },
+                        {
+                            "idioma": "Catalan",
+                            "nivel": 75
+                        }
+                    ],
+            
+                    "referencias" : [
+                        {
+                            "nombre": "Pilar",
+                            "img": "./images/reference-image-1.jpg",
+                            "puesto" : "ADMINISTRATIVE TECHNICIAN",
+                            "resumen" : "Excellent motivation and work efficiency. Special charisma"
+                        },
+    
+                        {
+                            "nombre": "Jesús",
+                            "img": "./images/reference-image-2.jpg",
+                            "puesto" : "COMPUTER TEACHER",
+                            "resumen" : "Excellent student, demonstrates effort and interest in every task performed"
+                        },
+    
+                        {
+                            "nombre": "MARC",
+                            "img": "./images/reference-image-3.jpg",
+                            "puesto" : "HR",
+                            "resumen" : "Hard-working, very resolute and always eager to learn."
+                        }
+                    ],
+
+                    "referencia": {
+                            "nombre": "AITANA",
+                            "img": "./images/reference1.jpg",
+                            "puesto" : "MANAGER",
+                            "resumen" : "Responsible, decisive, and perfectionist. Always with a positive attitude to every challenge."
+                    }
+                        
+                }
+        
+
+    
+    
+       
+
+    
+
+        ]
+
+}
